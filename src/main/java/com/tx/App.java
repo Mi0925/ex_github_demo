@@ -18,5 +18,6 @@ public class App
         System.out.println(ts.getNum());
         System.out.println(ts.getStr());
         System.out.println(ts.getFlag());
+        System.out.println(ts.getString());
     }
 }
