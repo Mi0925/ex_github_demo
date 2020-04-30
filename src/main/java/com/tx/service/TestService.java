@@ -8,4 +8,8 @@ public class TestService {
     public int getNum(){
         return 9+9;
     }
+
+    public String getStr(){
+        return "冰冰";
+    }
 }
