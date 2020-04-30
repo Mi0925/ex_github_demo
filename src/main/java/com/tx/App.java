@@ -19,5 +19,7 @@ public class App
         System.out.println(ts.getStr());
         System.out.println(ts.getFlag());
         System.out.println(ts.getString());
+
+        System.out.println(ts.getUser());
     }
 }
