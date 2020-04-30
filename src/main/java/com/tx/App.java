@@ -15,5 +15,6 @@ public class App
 
         TestService ts=new TestService();
         System.out.println(ts.getString());
+        System.out.println(ts.getNum());
     }
 }
