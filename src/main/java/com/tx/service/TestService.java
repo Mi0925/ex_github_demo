@@ -12,4 +12,8 @@ public class TestService {
     public String getStr(){
         return "冰冰";
     }
+
+    public Boolean getFlag(){
+        return true;
+    }
 }
